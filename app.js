@@ -2,7 +2,7 @@ let numeroSecreto;
 let intentos = 0;
 let listNumeroSorts = [];
 let maxmun = 20;
-let maxIntentos = 3;
+let maxIntentos = 7;
 
 function asignarElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
